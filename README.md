@@ -22,5 +22,6 @@ The file names are the dogs' names.
   
 ## Demo :eyes:
 ![doggo](https://user-images.githubusercontent.com/78197510/130640380-ad39aedd-b8f4-4740-a38a-a2fe9b6ebeb2.png)  
-  
-Michael Hsueh 09/07/2021
+
+## License
+[MIT](LICENSE) © Tsuen Hsueh
