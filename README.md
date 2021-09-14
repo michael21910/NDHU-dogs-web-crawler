@@ -14,6 +14,12 @@ pip install requests
 ```
 pip install BeautifulSoup
 ```
+* Clone this repository
+```
+git clone https://github.com/michael21910/NDHU-dogs-web-crawler.git
+```
+* Execute the program file "index.py"
+* Check the pictures at the folder "doggo"
   
 ## What you will get :icecream:
 This index.py program will web crawl the pictures of the dogs.  
